@@ -1,3 +1,6 @@
+This is copied from MacDown help.md.
+I think it's convenience to refer when I write in Markdown.``
+
 # MacDown
 
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
