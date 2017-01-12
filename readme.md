@@ -1,5 +1,5 @@
 This is copied from MacDown help.md.
-I think it's convenience to refer when I write in Markdown.``
+I think it's convenience to refer when I write in Markdown.
 
 # MacDown
 
